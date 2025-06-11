@@ -1,4 +1,3 @@
-# Gestion-d-une-Biblioth-que-Municipale
 # Gestion d'une Bibliothèque Municipale - Projet Java
 
 ## 📝 Description du Projet
