@@ -94,7 +94,3 @@ Ce projet consiste en un système de gestion de documents pour une bibliothèque
 ## 🙏 Remerciements
 Nous tenons à remercier notre encadrant **M. EL KAFHALI Said** pour son soutien et ses conseils tout au long de ce projet.
 
----
-
-## 📜 Licence
-Ce projet est sous licence MIT. Pour plus de détails, consulter le fichier `LICENSE`.
