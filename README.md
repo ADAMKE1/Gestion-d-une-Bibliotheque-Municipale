@@ -10,9 +10,6 @@ Ce projet consiste en un système de gestion de documents pour une bibliothèque
 - **BARHOINE Ayoub**  
 - **MOUSSA Yassine**  
 
-## 📅 Année Universitaire
-2024-2025
-
 ---
 
 ## 🛠 Configuration Requise
